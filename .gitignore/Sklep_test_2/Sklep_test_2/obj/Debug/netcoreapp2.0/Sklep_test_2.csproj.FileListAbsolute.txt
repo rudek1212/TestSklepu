@@ -1,0 +1,11 @@
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\obj\Debug\netcoreapp2.0\Sklep_test_2.csprojResolveAssemblyReference.cache
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\obj\Debug\netcoreapp2.0\Sklep_test_2.csproj.CoreCompileInputs.cache
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\obj\Debug\netcoreapp2.0\Sklep_test_2.AssemblyInfoInputs.cache
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\obj\Debug\netcoreapp2.0\Sklep_test_2.AssemblyInfo.cs
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\bin\Debug\netcoreapp2.0\Sklep_test_2.deps.json
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\bin\Debug\netcoreapp2.0\Sklep_test_2.runtimeconfig.json
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\bin\Debug\netcoreapp2.0\Sklep_test_2.runtimeconfig.dev.json
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\bin\Debug\netcoreapp2.0\Sklep_test_2.dll
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\bin\Debug\netcoreapp2.0\Sklep_test_2.pdb
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\obj\Debug\netcoreapp2.0\Sklep_test_2.dll
+C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\obj\Debug\netcoreapp2.0\Sklep_test_2.pdb

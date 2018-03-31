@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sklep_test_2</id>
+    <version>1.0.0</version>
+    <authors>Sklep_test_2</authors>
+    <owners>Sklep_test_2</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.NETCore.App" version="2.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\bin\Debug\netcoreapp2.0\Sklep_test_2.runtimeconfig.json" target="lib\netcoreapp2.0\Sklep_test_2.runtimeconfig.json" />
+    <file src="C:\Users\Rudni\source\repos\Sklep_test_2\Sklep_test_2\bin\Debug\netcoreapp2.0\Sklep_test_2.dll" target="lib\netcoreapp2.0\Sklep_test_2.dll" />
+  </files>
+</package>
